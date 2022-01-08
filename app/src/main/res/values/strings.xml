@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M3_hw_1</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="hello_there_nwelcome_back">hello there, \nwelcome back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">forget password?</string>
+    <string name="new_user_sign_up">new user? sign up</string>
+    <string name="go">go</string>
+</resources>
